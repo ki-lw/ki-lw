@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Wei Liu 👋
+
+🎓 Currently pursuing my Master's degree at **Harbin Institute of Technology (Shenzhen)**. Formerly an undergraduate at **Nankai University**.
+
+### Research Interests 🔭
+- 🔍 Video Temporal Grounding
+- 🎬 Fine-grained Video Understanding
+- ⚙️ Token Compression & Feature Extraction
 
 <!--
 **ki-lw/ki-lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
