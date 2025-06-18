@@ -1,6 +1,7 @@
 ## Hi there, I'm Wei Liu 👋
 
-🎓 Currently pursuing my Master's degree at **Harbin Institute of Technology (Shenzhen)**. Formerly an undergraduate at **Nankai University**.
+📚 Currently pursuing my Master's degree at **Harbin Institute of Technology (Shenzhen)**. 
+🎓 Formerly an undergraduate at **Nankai University**.
 
 ### Research Interests 🔭
 - 🔍 Video Temporal Grounding
